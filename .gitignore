@@ -1,0 +1,25 @@
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor folders
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Saved project files (user-generated, don't commit)
+*.nutfah
+
+# Node (if anyone adds build tools later)
+node_modules/
+npm-debug.log*
+
+# Temp
+*.tmp
+*.bak
