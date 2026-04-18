@@ -12,15 +12,7 @@ Built by [Nutfah Single-Cell Omics LLC](https://nutfahsinglecellomics.com) — b
 > Just download `index.html` and open it in your browser. That's it.
 
 Or use it directly via GitHub Pages:  
-👉 **[Open Card Builder Pro](https://YOUR-USERNAME.github.io/card-builder-pro)**
-
----
-
-## 📸 Screenshots
-
-| Front Designer | Background Controls |
-|---|---|
-| *(add screenshot here)* | *(add screenshot here)* |
+👉 **[Open Card Builder Pro](https://sedatkacar56.github.io/card-builder-pro)**
 
 ---
 
